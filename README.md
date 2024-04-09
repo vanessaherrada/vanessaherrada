@@ -6,9 +6,12 @@ Welcome to my Portfolio! I’m @vanessaherrada and I am happy to have you here!
 In this repository, you will find some projects that I've been building.
 
 ## About Me 
-I possess a Master's in Data Mining and Business Administration from the Universidad Complutense de Madrid. 
 
-I also studied 2 degrees:
+My studies:
+Master degree:
+* Data Mining and Business Intelligence - Universidad Complutense de Madrid
+
+Bachelor degrees:
  * Business Administration - Benemérita Universidad Autónoma de Puebla
  * International Business - Université Paris-Est Créteil (Paris XII)
 
