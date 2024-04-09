@@ -8,6 +8,7 @@ In this repository, you will find some projects that I've been building.
 ## About Me 
 
 My studies:
+
 Master degree:
 * Data Mining and Business Intelligence - Universidad Complutense de Madrid
 
@@ -25,3 +26,4 @@ I speak:
 ## Contact info
 
 LinkedIn: https://www.linkedin.com/in/vanessaherrada/
+Email: vanny.saavedra@gmail.com
