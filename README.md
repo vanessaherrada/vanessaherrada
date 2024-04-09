@@ -27,3 +27,37 @@ I speak:
 
 * LinkedIn: https://www.linkedin.com/in/vanessaherrada/
 * Email: vanny.saavedra@gmail.com
+
+--------------------------------------------------------------------------------
+## Introducción
+
+Hola! 😊
+
+¡Bienvenido a mi portafolio! Soy @vanessaherrada y estoy feliz de tenerte aquí.
+En este repositorio, encontrarás algunos proyectos que he estado desarrollando.
+
+## Sobre mi
+
+Mis estudios:
+
+Máster:
+* Minería de Datos e Inteligencia de negocios - Universidad Complutense de Madrid
+
+Licenciaturas:
+
+* Administración de Empresas - Benemérita Universidad Autónoma de Puebla
+* Negocios Internacionales - Université Paris-Est Créteil (París XII)
+
+Hablo:
+
+* Español (nativo)
+* Inglés (Avanzado)
+* Francés (Intermedio)
+  
+✨ Soy muy amigable y feliz de compartir información para que ambos aprendamos 😊
+
+## Información de contacto 
+
+* LinkedIn: https://www.linkedin.com/in/vanessaherrada/
+* Email: vanny.saavedra@gmail.com
+* 
