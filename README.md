@@ -18,6 +18,16 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
 
+<details>
+<summary>🌍 Languages</summary>
+
+|  |  |
+|--|--|
+| **Spanish** | Native |
+| **English** | C1 |
+| **French** | B2 |
+
+</details>
 ---
 
 ### 🚀 About Me
@@ -31,9 +41,6 @@
 | **Full-Stack** | Task-planner app in **Angular + FastAPI + HTML/CSS** |
 | **Data** | Climate-trend analysis using **Python, SQL & Power BI** |
 | **Product** | Roadmap & KPI template for early-stage teams |
-
-### 📊 GitHub Stats
-![Vane’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaherrada&show_icons=true&hide_border=true)
 
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessaherrada)
@@ -59,7 +66,15 @@ vanessa.herrada@gmail.com
 | **Data** | Análisis de tendencias climáticas con **Python, SQL y Power BI** |
 | **Producto** | Plantilla de roadmap y KPIs para equipos early-stage |
 
-### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub de Vane](https://github-readme-stats.vercel.app/api?username=vanessaherrada&show_icons=true&hide_border=true&locale=es)
+</details>
+
+<details>
+<summary>🌍 Idiomas</summary>
+
+|  |  |
+|--|--|
+| **Español** | Nativo |
+| **Inglés** | C1 |
+| **Francés** | B2 |
 
 </details>
