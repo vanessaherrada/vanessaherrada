@@ -32,7 +32,7 @@
 | **Data** | Climate-trend analysis using **Python, SQL & Power BI** |
 | **Product** | Roadmap & KPI template for early-stage teams |
 
-🌍 Languages
+### 🌍 Languages
 
 |  |  |
 |--|--|
@@ -50,7 +50,7 @@ vanessa.herrada@gmail.com
 
 ---
 
-<summary>🇪🇸 Versión en Español</summary>
+### Versión en Español
 
 ### 🚀 Sobre mí
 - **Más de cuatro años** liderando equipos multifuncionales, definiendo roadmaps y entregando soluciones a tiempo  
@@ -66,7 +66,6 @@ vanessa.herrada@gmail.com
 
 
 ### 🌍 Idiomas
-
 |  |  |
 |--|--|
 | **Español** | Nativo |
