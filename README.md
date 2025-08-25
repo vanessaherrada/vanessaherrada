@@ -65,8 +65,9 @@ vanessa.herrada@gmail.com
 | **Producto** | Plantilla de roadmap y KPIs para equipos early-stage |
 
 
-<summary>🌍 Idiomas</summary>
+### 🌍 Idiomas
 
+|  |  |
 |--|--|
 | **Español** | Nativo |
 | **Inglés** | C1 |
