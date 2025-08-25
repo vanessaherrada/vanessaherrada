@@ -68,7 +68,6 @@ vanessa.herrada@gmail.com
 <summary>🌍 Idiomas</summary>
 
 |  |  |
-|--|--|
 | **Español** | Nativo |
 | **Inglés** | C1 |
 | **Francés** | B2 |
