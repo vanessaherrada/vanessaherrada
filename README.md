@@ -18,16 +18,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
 
-<details>
-<summary>🌍 Languages</summary>
-
-|  |  |
-|--|--|
-| **Spanish** | Native |
-| **English** | C1 |
-| **French** | B2 |
-
-</details>
 ---
 
 ### 🚀 About Me
@@ -42,6 +32,15 @@
 | **Data** | Climate-trend analysis using **Python, SQL & Power BI** |
 | **Product** | Roadmap & KPI template for early-stage teams |
 
+🌍 Languages
+
+|  |  |
+|--|--|
+| **Spanish** | Native |
+| **English** | C1 |
+| **French** | B2 |
+
+
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessaherrada)
 &nbsp;•&nbsp;
@@ -51,7 +50,6 @@ vanessa.herrada@gmail.com
 
 ---
 
-<details>
 <summary>🇪🇸 Versión en Español</summary>
 
 ### 🚀 Sobre mí
@@ -66,9 +64,7 @@ vanessa.herrada@gmail.com
 | **Data** | Análisis de tendencias climáticas con **Python, SQL y Power BI** |
 | **Producto** | Plantilla de roadmap y KPIs para equipos early-stage |
 
-</details>
 
-<details>
 <summary>🌍 Idiomas</summary>
 
 |  |  |
@@ -77,4 +73,4 @@ vanessa.herrada@gmail.com
 | **Inglés** | C1 |
 | **Francés** | B2 |
 
-</details>
+
