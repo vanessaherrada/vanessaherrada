@@ -24,7 +24,7 @@
 ### 🚀 About Me
 - **More than four years** leading cross-functional teams, shaping roadmaps, and delivering solutions on time  
 - Blend of *product thinking*, *project discipline*, and *hands-on engineering & analytics*  
-- **Continuously upskilling** (Apr 2023 – Present) through self-driven projects <br> &nbsp;→ latest focus: **Advanced DAX, Angular, and MLOps**
+- **Continuously upskilling** through self-driven projects <br> &nbsp;
 
 ### 🔨 Current Side Projects
 | Area | What I’m building |
