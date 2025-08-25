@@ -44,18 +44,35 @@
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessaherrada)
 &nbsp;•&nbsp;
-[Portfolio](#) <!-- Replace with real link -->
-&nbsp;•&nbsp;
 vanessa.herrada@gmail.com
 
 ---
 
-### Versión en Español
+<h1 align="center">Hola, soy Vane 👋</h1>
+<p align="center">
+  <strong>Product &amp; Project Manager · Full-Stack &amp; Data Engineer</strong><br>
+  Convirtiendo ideas en dashboards, apps web y pipelines de datos listos para producción.
+</p>
+
+<p align="center">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img alt="Power&nbsp;BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
+
+---
 
 ### 🚀 Sobre mí
 - **Más de cuatro años** liderando equipos multifuncionales, definiendo roadmaps y entregando soluciones a tiempo  
 - Combinación de *visión de producto*, *disciplina de proyectos* e *ingeniería/analítica práctica*  
-- **Aprendizaje continuo** (abr 2023 – Presente) mediante proyectos propios <br> &nbsp;→ foco actual: **DAX avanzado, Angular y MLOps**
+- **Aprendizaje continuo** (abr 2023 – Presente) mediante proyectos propios <br> &nbsp;
 
 ### 🔨 Proyectos en Curso
 | Área | En qué estoy trabajando |
@@ -72,4 +89,7 @@ vanessa.herrada@gmail.com
 | **Inglés** | C1 |
 | **Francés** | B2 |
 
-
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessaherrada)
+&nbsp;•&nbsp;
+vanessa.herrada@gmail.com
